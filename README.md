@@ -1,1 +1,3 @@
-![Rafiu's github stats](https://github-readme-stats.vercel.app/api?username=rafiujaman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=rafiujaman&theme=redical&hide_border=true&area=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafiujaman&theme=radical&hide_border=true)
